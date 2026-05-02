@@ -25,3 +25,12 @@ Always learning, often experimenting.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+
+
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+![FreeCAD](https://img.shields.io/badge/-FreeCAD-729FCF?logo=freecad&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Webots](https://img.shields.io/badge/-Webots-1F6FEB?logo=webots&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![YOLO](https://img.shields.io/badge/-YOLO-111111?logo=yolo&logoColor=white&style=for-the-badge)
